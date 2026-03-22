@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-03-20",
+    "amount": 250,
+    "status": "FAILED",
+    "reason": "BANK_SERVER_DOWN",
+    "merchant": "Swiggy"
+  },
+  {
+    "date": "2026-03-19",
+    "amount": 1200,
+    "status": "SUCCESS",
+    "merchant": "Amazon"
+  },
+{
+    "date": "2026-03-19",
+    "amount": 150,
+    "status": "SUCCESS",
+    "merchant": "Twitter"
+  },
+{
+    "date": "2026-03-19",
+    "amount": 1800,
+    "status": "SUCCESS",
+    "merchant": "Zomato"
+  },
+
+  {
+    "date": "2026-03-18",
+    "amount": 500,
+    "status": "FAILED",
+    "reason": "INSUFFICIENT_BALANCE",
+    "merchant": "Zomato"
+  }
+]
